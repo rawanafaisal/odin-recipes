@@ -1,0 +1,30 @@
+body {
+    background: peachpuff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-page {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 40vh;
+}
+
+.lasagna {
+    text-align: center;
+}
+
+.ingredients, .directions, .links{
+border: 2px solid salmon;
+}
+a {
+  color: hotpink;
+  background-color: black;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+a:hover {
+  background-color: white;
+  font-size: 18px;
+}
